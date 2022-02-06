@@ -1,0 +1,6 @@
+yfinance
+datetime
+pandas
+fbprophet
+fbprophet.plot 
+plotly
