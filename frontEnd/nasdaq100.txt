@@ -1,0 +1,102 @@
+ATVI 	Communication Services 	Interactive Home Entertainment
+ADBE 	Information Technology 	Application Software
+ADP 	Information Technology 	Data Processing & Outsourced Services
+ABNB 	Consumer Discretionary 	Internet & Direct Marketing Retail
+ALGN 	Health Care 	Health Care Supplies
+GOOGL 	Communication Services 	Interactive Media & Services
+GOOG 	Communication Services 	Interactive Media & Services
+AMZN 	Consumer Discretionary 	Internet & Direct Marketing Retail
+AMD 	Information Technology 	Semiconductors
+AEP 	Utilities 	Electric Utilities
+AMGN 	Health Care 	Biotechnology
+ADI 	Information Technology 	Semiconductors
+ANSS 	Information Technology 	Application Software
+AAPL 	Information Technology 	Technology Hardware, Storage & Peripherals
+AMAT 	Information Technology 	Semiconductor Equipment
+ASML 	Information Technology 	Semiconductor Equipment
+TEAM 	Information Technology 	Application Software
+ADSK 	Information Technology 	Application Software
+BIDU 	Communication Services 	Interactive Media & Services
+BIIB 	Health Care 	Biotechnology
+BKNG 	Consumer Discretionary 	Internet & Direct Marketing Retail
+AVGO 	Information Technology 	Semiconductors
+CDNS 	Information Technology 	Application Software
+CHTR 	Communication Services 	Cable & Satellite
+CTAS 	Industrials 	Diversified Support Services
+CSCO 	Information Technology 	Communications Equipment
+CTSH 	Information Technology 	IT Consulting & Other Services
+CMCSA 	Communication Services 	Cable & Satellite
+CEG 	Utilities 	Multi-Utilities
+CPRT 	Industrials 	Diversified Support Services
+COST 	Consumer Staples 	Hypermarkets & Super Centers
+CRWD 	Information Technology 	Application Software
+CSX 	Industrials 	Railroads
+DDOG 	Information Technology 	Application Software
+DXCM 	Health Care 	Health Care Equipment
+DOCU 	Information Technology 	Application Software
+DLTR 	Consumer Discretionary 	General Merchandise Stores
+EBAY 	Consumer Discretionary 	Internet & Direct Marketing Retail
+EA 	Communication Services 	Interactive Home Entertainment
+EXC 	Utilities 	Multi-Utilities
+FAST 	Industrials 	Building Products
+FISV 	Information Technology 	Data Processing & Outsourced Services
+FTNT 	Information Technology 	Systems Software
+GILD 	Health Care 	Biotechnology
+HON 	Industrials 	Industrial Conglomerates
+IDXX 	Health Care 	Health Care Equipment
+ILMN 	Health Care 	Life Sciences Tools & Services
+INTC 	Information Technology 	Semiconductors
+INTU 	Information Technology 	Application Software
+ISRG 	Health Care 	Health Care Equipment
+JD 	Consumer Discretionary 	Internet & Direct Marketing Retail
+KDP 	Consumer Staples 	Soft Drinks
+KLAC 	Information Technology 	Semiconductor Equipment
+KHC 	Consumer Staples 	Packaged Foods & Meats
+LRCX 	Information Technology 	Semiconductor Equipment
+LCID 	Consumer Discretionary 	Automobile Manufacturers
+LULU 	Consumer Discretionary 	Apparel, Accessories & Luxury Goods
+MAR 	Consumer Discretionary 	Hotels, Resorts & Cruise Lines
+MRVL 	Information Technology 	Application Software
+MTCH 	Communication Services 	Interactive Media & Services
+MELI 	Consumer Discretionary 	Internet & Direct Marketing Retail
+FB 	Communication Services 	Interactive Media & Services
+MCHP 	Information Technology 	Semiconductors
+MU 	Information Technology 	Semiconductors
+MSFT 	Information Technology 	Systems Software
+MRNA 	Health Care 	Biotechnology
+MDLZ 	Consumer Staples 	Packaged Foods & Meats
+MNST 	Consumer Staples 	Soft Drinks
+NTES 	Communication Services 	Interactive Home Entertainment
+NFLX 	Communication Services 	Movies & Entertainment
+NVDA 	Information Technology 	Semiconductors
+NXPI 	Information Technology 	Semiconductors
+ORLY 	Consumer Discretionary 	Specialty Stores
+OKTA 	Information Technology 	Application Software
+ODFL 	Industrials 	Trucking
+PCAR 	Industrials 	Construction Machinery & Heavy Trucks
+PANW 	Information Technology 	Application Software
+PAYX 	Information Technology 	Data Processing & Outsourced Services
+PYPL 	Information Technology 	Data Processing & Outsourced Services
+PEP 	Consumer Staples 	Soft Drinks
+PDD 	Consumer Discretionary 	Internet & Direct Marketing Retail
+QCOM 	Information Technology 	Semiconductors
+REGN 	Health Care 	Biotechnology
+ROST 	Consumer Discretionary 	Apparel Retail
+SGEN 	Health Care 	Biotechnology
+SIRI 	Communication Services 	Broadcasting
+SWKS 	Information Technology 	Semiconductors
+SPLK 	Information Technology 	Application Software
+SBUX 	Consumer Discretionary 	Restaurants
+SNPS 	Information Technology 	Application Software
+TMUS 	Communication Services 	Wireless Telecommunication Services
+TSLA 	Consumer Discretionary 	Automobile Manufacturers
+TXN 	Information Technology 	Semiconductors
+VRSN 	Information Technology 	Internet Services & Infrastructure
+VRSK 	Industrials 	Research & Consulting Services
+VRTX 	Health Care 	Biotechnology
+WBA 	Consumer Staples 	Drug Retail
+WDAY 	Information Technology 	Application Software
+XEL 	Utilities 	Multi-Utilities
+XLNX 	Information Technology 	Semiconductors
+ZM 	Information Technology 	Application Software
+ZS 	Information Technology 	Application Software 

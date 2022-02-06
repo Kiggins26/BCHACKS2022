@@ -1,0 +1,237 @@
+ABX 	Barrick Gold Corporation 	Basic Materials 	Metals & Mining
+AEM 	Agnico Eagle Mines Limited 	Basic Materials 	Metals & Mining
+AGI 	Alamos Gold Inc. 	Basic Materials 	Metals & Mining
+BTO 	B2Gold Corp. 	Basic Materials 	Metals & Mining
+CAS 	Cascades Inc. 	Basic Materials 	Forest Products
+CFP 	Canfor Corporation 	Basic Materials 	Forest Products
+CG 	Centerra Gold Inc. 	Basic Materials 	Metals & Mining
+CS 	Capstone Mining Corp. 	Basic Materials 	Metals & Mining
+DPM 	Dundee Precious Metals Inc. 	Basic Materials 	Metals & Mining
+EDR 	Endeavour Silver Corp. 	Basic Materials 	Metals & Mining
+ELD 	Eldorado Gold Corporation 	Basic Materials 	Metals & Mining
+EQX 	Equinox Gold Corp. 	Basic Materials 	Metals & Mining
+ERO 	Ero Copper Corp. 	Basic Materials 	Metals & Mining
+FM 	First Quantum Minerals Ltd. 	Basic Materials 	Metals & Mining
+FNV 	Franco-Nevada Corporation 	Basic Materials 	Metals & Mining
+FR 	First Majestic Silver Corp. 	Basic Materials 	Metals & Mining
+FVI 	Fortuna Silver Mines Inc. 	Basic Materials 	Metals & Mining
+HBM 	Hudbay Minerals Inc. 	Basic Materials 	Metals & Mining
+IFP 	Interfor Corporation 	Basic Materials 	Forest Products
+IMG 	Iamgold Corporation 	Basic Materials 	Metals & Mining
+IVN 	Ivanhoe Mines Ltd. 	Basic Materials 	Metals & Mining
+K 	Kinross Gold Corporation 	Basic Materials 	Metals & Mining
+KL 	Kirkland Lake Gold Ltd. 	Basic Materials 	Metals & Mining
+KNT 	K92 Mining Inc. 	Basic Materials 	Metals & Mining
+LAC 	Lithium Americas Corp. 	Basic Materials 	Metals & Mining
+LIF 	Labrador Iron Ore Royalty Corporation 	Basic Materials 	Steel
+LUN 	Lundin Mining Corporation 	Basic Materials 	Metals & Mining
+MAG 	MAG Silver Corp. 	Basic Materials 	Metals & Mining
+MX 	Methanex Corporation 	Basic Materials 	Chemicals
+NG 	NovaGold Resources Inc. 	Basic Materials 	Metals & Mining
+NGD 	New Gold Inc. 	Basic Materials 	Metals & Mining
+NTR 	Nutrien Ltd. 	Basic Materials 	Agriculture
+OGC 	OceanaGold Corporation 	Basic Materials 	Metals & Mining
+OR 	Osisko Gold Royalties Ltd. 	Basic Materials 	Metals & Mining
+OSK 	Osisko Mining Inc. 	Basic Materials 	Metals & Mining
+PAAS 	Pan American Silver Corp. 	Basic Materials 	Metals & Mining
+PVG 	Pretium Resources Inc. 	Basic Materials 	Metals & Mining
+SEA 	Seabridge Gold Inc. 	Basic Materials 	Metals & Mining
+SIL 	SilverCrest Metals Inc. 	Basic Materials 	Metals & Mining
+SJ 	Stella-Jones Inc. 	Basic Materials 	Forest Products
+SSL 	Sandstorm Gold Ltd. 	Basic Materials 	Metals & Mining
+SSRM 	SSR Mining Inc. 	Basic Materials 	Metals & Mining
+STLC 	Stelco Holdings Inc. 	Basic Materials 	Steel
+SVM 	Silvercorp Metals Inc. 	Basic Materials 	Metals & Mining
+TECK.B 	Teck Resources Limited 	Basic Materials 	Metals & Mining
+TRQ 	Turquoise Hill Resources Ltd. 	Basic Materials 	Metals & Mining
+TXG 	Torex Gold Resources Inc. 	Basic Materials 	Metals & Mining
+WDO 	Wesdome Gold Mines Ltd. 	Basic Materials 	Metals & Mining
+WFG 	West Fraser Timber Co. Ltd. 	Basic Materials 	Forest Products
+WPM 	Wheaton Precious Metals Corp. 	Basic Materials 	Metals & Mining
+YRI 	Yamana Gold Inc. 	Basic Materials 	Metals & Mining
+BCE 	BCE Inc. 	Communication Services 	Telecommunication Services
+CCA 	Cogeco Communications Inc. 	Communication Services 	Telecommunication Services
+CJR.B 	Corus Entertainment Inc. 	Communication Services 	Diversified Media
+QBR.B 	Quebecor Inc. 	Communication Services 	Telecommunication Services
+RCI.B 	Rogers Communications Inc. 	Communication Services 	Telecommunication Services
+SJR.B 	Shaw Communications Inc. 	Communication Services 	Telecommunication Services
+T 	Telus Corporation 	Communication Services 	Telecommunication Services
+ATZ 	Aritzia Inc. 	Consumer Cyclical 	Retail Cyclical
+BYD 	Boyd Group Services Inc. 	Consumer Cyclical 	Personal Services
+CCL.B 	CCL Industries Inc. 	Consumer Cyclical 	Packaging & Containers
+CTC.A 	Canadian Tire Corporation Limited 	Consumer Cyclical 	Retail Cyclical
+DOO 	BRP Inc. 	Consumer Cyclical 	Vehicles & Parts
+GIL 	Gildan Activewear Inc. 	Consumer Cyclical 	Apparel & Accessories
+GOOS 	Canada Goose Holdings Inc. 	Consumer Cyclical 	Apparel & Accessories
+ITP 	Intertape Polymer Group Inc. 	Consumer Cyclical 	Packaging & Containers
+LNR 	Linamar Corporation 	Consumer Cyclical 	Vehicles & Parts
+MG 	Magna International Inc. 	Consumer Cyclical 	Vehicles & Parts
+MRE 	Martinrea International Inc. 	Consumer Cyclical 	Vehicles & Parts
+MTY 	MTY Food Group 	Consumer Cyclical 	Restaurants
+NFI 	NFI Group Inc. 	Consumer Cyclical 	Vehicles & Parts
+QSR 	Restaurant Brands International Inc. 	Consumer Cyclical 	Restaurants
+RCH 	Richelieu Hardware Ltd. 	Consumer Cyclical 	Furnishings, Fixtures & Appliances
+TOY 	Spin Master Corp. 	Consumer Cyclical 	Travel & Leisure
+WPK 	Winpak Ltd. 	Consumer Cyclical 	Packaging & Containers
+WPRT 	Westport Fuel Systems Inc. 	Consumer Cyclical 	Vehicles & Parts
+ZZZ 	Sleep Country Canada Holdings Inc. 	Consumer Cyclical 	Retail Cyclical
+ATD 	Alimentation Couche-Tard Inc. 	Consumer Defensive 	Retail Defensive
+DOL 	Dollarama Inc. 	Consumer Defensive 	Retail Defensive
+EMP.A 	Empire Company 	Consumer Defensive 	Retail Defensive
+JWEL 	Jamieson Wellness Inc. 	Consumer Defensive 	Consumer Packaged Goods
+L 	Loblaw Companies Limited 	Consumer Defensive 	Retail Defensive
+MFI 	Maple Leaf Foods Inc. 	Consumer Defensive 	Consumer Packaged Goods
+MRU 	Metro Inc. 	Consumer Defensive 	Retail Defensive
+NWC 	The North West Company Inc. 	Consumer Defensive 	Retail Defensive
+PBH 	Premium Brands Holdings Corporation 	Consumer Defensive 	Consumer Packaged Goods
+PRMW 	Primo Water Corporation 	Consumer Defensive 	Non-Alcoholic Beverages
+SAP 	Saputo Inc. 	Consumer Defensive 	Consumer Packaged Goods
+SOY 	SunOpta Inc. 	Consumer Defensive 	Consumer Packaged Goods
+VFF 	Village Farms International, Inc. 	Consumer Defensive 	Consumer Packaged Goods
+WN 	George Weston Limited 	Consumer Defensive 	Retail Defensive
+ARX 	ARC Resources Ltd. 	Energy 	Oil & Gas
+BIR 	Birchcliff Energy 	Energy 	Oil & Gas
+CCO 	Cameco Corporation 	Energy 	Other Energy Sources
+CNQ 	Canadian Natural Resources Limited 	Energy 	Oil & Gas
+CPG 	Crescent Point Energy Corp. 	Energy 	Oil & Gas
+CVE 	Cenovus Energy Inc. 	Energy 	Oil & Gas
+DML 	Denison Mines Corp. 	Energy 	Other Energy Sources
+ENB 	Enbridge Inc. 	Energy 	Oil & Gas
+ERF 	Enerplus Corporation 	Energy 	Oil & Gas
+GEI 	Gibson Energy Inc. 	Energy 	Oil & Gas
+IMO 	Imperial Oil Limited 	Energy 	Oil & Gas
+IPL 	Inter Pipeline Ltd. 	Energy 	Oil & Gas
+KEY 	Keyera Corp. 	Energy 	Oil & Gas
+MEG 	MEG Energy Corp. 	Energy 	Oil & Gas
+NXE 	NexGen Energy Ltd. 	Energy 	Other Energy Sources
+PKI 	Parkland Corporation 	Energy 	Oil & Gas
+PPL 	Pembina Pipeline Corporation 	Energy 	Oil & Gas
+PSK 	PrairieSky Royalty Ltd. 	Energy 	Oil & Gas
+PXT 	Parex Resources Inc. 	Energy 	Oil & Gas
+SU 	Suncor Energy Inc. 	Energy 	Oil & Gas
+TOU 	Tourmaline Oil Corp. 	Energy 	Oil & Gas
+TRP 	TC Energy Corporation 	Energy 	Oil & Gas
+VET 	Vermilion Energy Inc. 	Energy 	Oil & Gas
+WCP 	Whitecap Resources Inc. 	Energy 	Oil & Gas
+BAM.A 	Brookfield Asset Management Inc. 	Financial Services 	Asset Management
+BMO 	Bank of Montreal 	Financial Services 	Banks
+BNS 	Bank of Nova Scotia 	Financial Services 	Banks
+CF 	Canaccord Genuity Group Inc. 	Financial Services 	Capital Markets
+CIX 	CI Financial Corp. 	Financial Services 	Asset Management
+CM 	Canadian Imperial Bank of Commerce 	Financial Services 	Banks
+CWB 	Canadian Western Bank 	Financial Services 	Banks
+ECN 	ECN Capital Corp. 	Financial Services 	Credit Services
+EQB 	Equitable Group Inc. 	Financial Services 	Banks
+FFH 	Fairfax Financial Holdings Limited 	Financial Services 	Insurance
+GSY 	goeasy Ltd. 	Financial Services 	Credit Services
+GWO 	Great-West Lifeco Inc. 	Financial Services 	Insurance
+HCG 	Home Capital Group Inc. 	Financial Services 	Banks
+IAG 	iA Financial Corporation Inc. 	Financial Services 	Insurance
+IFC 	Intact Financial Corporation 	Financial Services 	Insurance
+IGM 	IGM Financial Inc. 	Financial Services 	Asset Management
+LB 	Laurentian Bank of Canada 	Financial Services 	Banks
+MFC 	Manulife Financial Corporation 	Financial Services 	Insurance
+NA 	National Bank of Canada 	Financial Services 	Banks
+ONEX 	Onex Corporation 	Financial Services 	Asset Management
+POW 	Power Corporation of Canada 	Financial Services 	Insurance
+RY 	Royal Bank of Canada 	Financial Services 	Banks
+SII 	Sprott Inc. 	Financial Services 	Asset Management
+SLF 	Sun Life Financial Inc. 	Financial Services 	Insurance
+TD 	Toronto-Dominion Bank 	Financial Services 	Banks
+TSU 	Trisura Group Ltd. 	Financial Services 	Insurance
+X 	TMX Group Limited 	Financial Services 	Capital Markets
+ACB 	Aurora Cannabis Inc. 	Healthcare 	Drug Manufacturers
+AUP 	Aurinia Pharmaceuticals Inc. 	Healthcare 	Biotechnology
+BHC 	Bausch Health Companies Inc. 	Healthcare 	Drug Manufacturers
+CRON 	Cronos Group Inc. 	Healthcare 	Drug Manufacturers
+OGI 	OrganiGram Holdings Inc. 	Healthcare 	Drug Manufacturers
+SIA 	Sienna Senior Living Inc. 	Healthcare 	Healthcare Providers & Services
+TLRY 	Tilray Inc. 	Healthcare 	Drug Manufacturers
+WEED 	Canopy Growth Corporation 	Healthcare 	Drug Manufacturers
+WELL 	WELL Health Technologies Corp. 	Healthcare 	Health Care Services
+AC 	Air Canada 	Industrials 	Transportation
+ARE 	Aecon Group Inc. 	Industrials 	Construction
+ATA 	ATS Automation Tooling Systems Inc. 	Industrials 	Industrial Products
+BBD.B 	Bombardier Inc. 	Industrials 	Aerospace & Defense
+BBU.UN 	Brookfield Business Partners L.P. 	Industrials 	Conglomerates
+BDGI 	Badger Infrastructure Solutions Ltd. 	Industrials 	Construction
+BLDP 	Ballard Power Systems Inc. 	Industrials 	Industrial Products
+CAE 	CAE Inc. 	Industrials 	Aerospace & Defense
+CJT 	Cargojet Inc. 	Industrials 	Transportation
+CNR 	Canadian National Railway Company 	Industrials 	Transportation
+CP 	Canadian Pacific Railway Limited 	Industrials 	Transportation
+EFN 	Element Fleet Management Corp. 	Industrials 	Business Services
+EIF 	Exchange Income Corporation 	Industrials 	Transportation
+FTT 	Finning International Inc. 	Industrials 	Industrial Distribution
+GFL 	GFL Environmental Inc. 	Industrials 	Waste Management
+MTL 	Mullen Group Ltd. 	Industrials 	Transportation
+RBA 	Ritchie Bros. Auctioneers Incorporated 	Industrials 	Business Services
+RUS 	Russel Metals Inc. 	Industrials 	Industrial Distribution
+SNC 	SNC-Lavalin Group Inc. 	Industrials 	Construction
+STN 	Stantec Inc. 	Industrials 	Construction
+TCL.A 	Transcontinental Inc. 	Industrials 	Business Services
+TFII 	TFI International Inc. 	Industrials 	Transportation
+TIH 	Toromont Industries Ltd. 	Industrials 	Industrial Distribution
+TRI 	Thomson Reuters Corporation 	Industrials 	Business Services
+WCN 	Waste Connections Inc. 	Industrials 	Waste Management
+WSP 	WSP Global Inc. 	Industrials 	Construction
+WTE 	Westshore Terminals Investment Corporation 	Industrials 	Transportation
+TIXT 	Telus International 	Information Technology 	Data Processing & Outsourced Services
+AIF 	Altus Group Limited 	Real Estate 	Real Estate
+AP.UN 	Allied Properties Real Estate Investment Trust 	Real Estate 	REITs
+AX.UN 	Artis Real Estate Investment Trust 	Real Estate 	REITs
+BEI.UN 	Boardwalk Real Estate Investment Trust 	Real Estate 	REITs
+BPY.UN 	Brookfield Property Partners L.P. 	Real Estate 	Real Estate
+CAR.UN 	Canadian Apartment Properties Real Estate Investment Trust 	Real Estate 	REITs
+CHP.UN 	Choice Properties Real Estate Investment Trust 	Real Estate 	REITs
+CIGI 	Colliers International Group Inc. 	Real Estate 	Real Estate
+CRR.UN 	Crombie Real Estate Investment Trust 	Real Estate 	REITs
+CRT.UN 	CT Real Estate Investment Trust 	Real Estate 	REITs
+CSH.UN 	Chartwell Retirement Residences 	Real Estate 	Real Estate
+CUF.UN 	Cominar Real Estate Investment Trust 	Real Estate 	REITs
+D.UN 	Dream Office Real Estate Investment Trust 	Real Estate 	REITs
+DIR.UN 	Dream Industrial Real Estate Investment Trust 	Real Estate 	REITs
+FCR.UN 	First Capital Real Estate Investment Trust 	Real Estate 	REITs
+FSV 	FirstService Corporation 	Real Estate 	Real Estate
+GRT.UN 	Granite Real Estate Investment Trust 	Real Estate 	REITs
+HR.UN 	H&R Real Estate Investment Trust 	Real Estate 	REITs
+IIP.UN 	InterRent Real Estate Investment Trust 	Real Estate 	REITs
+KMP.UN 	Killam Apartment Real Estate Investment Trust 	Real Estate 	REITs
+NWH.UN 	NorthWest Healthcare Properties Real Estate Investment Trust 	Real Estate 	REITs
+REI.UN 	RioCan Real Estate Investment Trust 	Real Estate 	REITs
+SMU.UN 	Summit Industrial Income REIT 	Real Estate 	REITs
+SRU.UN 	SmartCentres Real Estate Investment Trust 	Real Estate 	REITs
+TCN 	Tricon Residential Inc. 	Real Estate 	Real Estate
+WIR.UN 	WPT Industrial Real Estate Investment Trust 	Real Estate 	REITs
+BB 	BlackBerry Limited 	Technology 	Software
+CLS 	Celestica Inc. 	Technology 	Hardware
+CSU 	Constellation Software Inc. 	Technology 	Software
+CTS 	Converge Technology Solutions Corp. 	Technology 	IT Consulting & Other Services
+DCBO 	Docebo Inc. 	Technology 	Application Software
+DND 	Dye & Durham Limited 	Technology 	Software
+DSG 	Descartes Systems Group Inc. 	Technology 	Software
+ENGH 	Enghouse Systems Limited 	Technology 	Software
+GIB.A 	CGI Inc. 	Technology 	Software
+KXS 	Kinaxis Inc. 	Technology 	Software
+LSPD 	Lightspeed POS Inc. 	Technology 	Software
+LWRK 	LifeWorks Inc. 	Technology 	Software
+NVEI 	Nuvei Corporation 	Technology 	Software
+OTEX 	Open Text Corporation 	Technology 	Software
+REAL 	Real Matters Inc. 	Technology 	Software
+SHOP 	Shopify Inc. 	Technology 	Software
+ACO.X 	ATCO Ltd. 	Utilities 	Regulated Utilities
+ALA 	AltaGas Ltd. 	Utilities 	Regulated Utilities
+AQN 	Algonquin Power & Utilities Corp. 	Utilities 	Independent Power Producers
+BEP.UN 	Brookfield Renewable Partners L.P. 	Utilities 	Independent Power Producers
+BIP.UN 	Brookfield Infrastructure Partners L.P. 	Utilities 	Regulated Utilities
+BLX 	Boralex Inc. 	Utilities 	Independent Power Producers
+CPX 	Capital Power Corporation 	Utilities 	Independent Power Producers
+CU 	Canadian Utilities Limited 	Utilities 	Regulated Utilities
+EMA 	Emera Incorporated 	Utilities 	Regulated Utilities
+FTS 	Fortis Inc. 	Utilities 	Regulated Utilities
+H 	Hydro One Limited 	Utilities 	Regulated Utilities
+INE 	Innergex Renewable Energy Inc. 	Utilities 	Independent Power Producers
+NPI 	Northland Power Inc. 	Utilities 	Independent Power Producers
+RNW 	TransAlta Renewables Inc. 	Utilities 	Independent Power Producers
+SPB 	Superior Plus Corp. 	Utilities 	Regulated Utilities
+TA 	TransAlta Corporation 	Utilities 	Independent Power Producers 
