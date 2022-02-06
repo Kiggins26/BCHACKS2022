@@ -9,7 +9,7 @@ def tsxMarketInfo():
             ticker = line.split()[0]
             print(ticker)
             stock = yf.Ticker(ticker)
-            tickersInfo.append(stock.info)
+            tickersInfo.append([ticker,stock.info])
 
     return tickersInfo 
 
@@ -22,7 +22,7 @@ def sapMarketInfo():
             ticker = line.split()[0]
             print(ticker)
             stock = yf.Ticker(ticker)
-            tickersInfo.append(stock.info)
+            tickersInfo.append([ticker,stock.info])
 
     return tickersInfo 
 
@@ -35,15 +35,20 @@ def nasdaqMarketInfo():
             ticker = line.split()[0]
             print(ticker)
             stock = yf.Ticker(ticker)
-            tickersInfo.append(stock.info)
+            tickersInfo.append([ticker,stock.info])
 
     return tickersInfo 
 
 @st.cache
-def getValidListOfStocks(stockList, investmentAmount)
+def getValidListOfStocks(stockList, investmentAmount):
     validList = []
     for stock in stockList:
+        print(stock[1].info)
         if (stock.info['regularMarketPrice'] <= investmentAmount):
             validList.append(stock)
     return validList
+
+
+
+
 
